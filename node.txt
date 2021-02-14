@@ -1,0 +1,18 @@
+live server
+node exec
+prettier
+
+
+callbacks
+promises
+async/await
+Generators
+
+
+async callbacks :-
+
+setImmediate
+processNextTick
+
+callbacks error first in params
+next(err) pass error up the chain

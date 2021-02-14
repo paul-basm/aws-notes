@@ -1,0 +1,15 @@
+AWS Notes
+
+SQS arn
+
+arn:aws:sqs:eu-west-2:416092461445:TaskHandler
+
+SQS URL
+
+https://sqs.eu-west-2.amazonaws.com/416092461445/TaskHandler
+
+aws lambda list-functions
+
+Donwnload a lmbda with link to source code zip :-
+
+aws lambda get-function --function-name task-handler
