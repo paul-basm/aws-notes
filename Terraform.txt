@@ -1,0 +1,7 @@
+Terraform Notes
+
+https://registry.terraform.io/providers/hashicorp/aws/latest
+
+https://gruntwork.io/
+
+https://github.com/brikis98/terraform-up-and-running-code
