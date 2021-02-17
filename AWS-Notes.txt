@@ -13,3 +13,12 @@ aws lambda list-functions
 Donwnload a lmbda with link to source code zip :-
 
 aws lambda get-function --function-name task-handler
+
+
+API Gateway Stages
+
+https://stackoverflow.com/questions/47848586/what-is-a-stage-in-the-context-of-amazon-api-gateway
+
+
+https://medium.com/@TomKeeber/aws-api-gateways-c048cec63046
+
