@@ -23,7 +23,12 @@ https://stackoverflow.com/questions/47848586/what-is-a-stage-in-the-context-of-a
 https://medium.com/@TomKeeber/aws-api-gateways-c048cec63046
 
 
-Thu, Mar 18, 2021 1:40 PM - 2:30 PM GMT
+Effective Security for Modern Applications
+Thu, Mar 18, 2021 11:35 AM - 12:10 PM GMT
+https://global.gotowebinar.com/sjoin/1113633068554892556/838099236
 
-https://global.gotowebinar.com/sjoin/5350210799561929228/300214908
+Integration of Code Security Evaluation in Code Pipeline
+Thu, Mar 18, 2021 1:00 PM - 1:35 PM GMT
+https://global.gotowebinar.com/sjoin/2712068988155247372/194812153
+
 
